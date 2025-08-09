@@ -1,0 +1,7 @@
+flask
+flask_sqlalchemy
+flask_login
+selenium
+pytest
+pytest-html
+webdriver-manager
